@@ -238,7 +238,7 @@ def atkmpproval():
 			#chav()
 		#elif xxd in rl:
 			#chav()
-		else:
+		#else:
 			print(P+"Key : "+G+xxd+W)
 			print(P+f"Key Is Not Approved")
 			#line()
