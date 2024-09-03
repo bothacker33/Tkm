@@ -234,10 +234,10 @@ def atkmpproval():
 			#for __fxd__ in range(15):
 				#print(P+f"Please Wait Update Coming Soon...") 
 			#exit()
-		elif str("free") in rl:
-			chav()
-		elif xxd in rl:
-			chav()
+		#elif str("free") in rl:
+			#chav()
+		#elif xxd in rl:
+			#chav()
 		else:
 			print(P+"Key : "+G+xxd+W)
 			print(P+f"Key Is Not Approved")
