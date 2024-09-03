@@ -230,10 +230,10 @@ rl=response_body
 def atkmpproval():
 	try:
 		logo()
-		if str("update") in rl:
-			for __fxd__ in range(15):
+		#if str("update") in rl:
+			#for __fxd__ in range(15):
 				#print(P+f"Please Wait Update Coming Soon...") 
-			exit()
+			#exit()
 		elif str("free") in rl:
 			chav()
 		elif xxd in rl:
