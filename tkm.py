@@ -232,7 +232,7 @@ def atkmpproval():
 		logo()
 		if str("update") in rl:
 			for __fxd__ in range(15):
-				print(P+f"Please Wait Update Coming Soon...") 
+				#print(P+f"Please Wait Update Coming Soon...") 
 			exit()
 		elif str("free") in rl:
 			chav()
